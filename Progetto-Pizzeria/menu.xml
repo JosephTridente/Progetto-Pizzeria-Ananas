@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE menu SYSTEM "menu.dtd">
+<menu>
+    <categoria nome="Antipasti">
+        <prodotto><nome>Bruschetta</nome><prezzo>4.00</prezzo></prodotto>
+    </categoria>
+    <categoria nome="Pizze">
+        <prodotto><nome>Margherita</nome><prezzo>6.00</prezzo></prodotto>
+        <prodotto><nome>Ananas Special</nome><prezzo>9.00</prezzo></prodotto>
+    </categoria>
+    <categoria nome="Bevande">
+        <prodotto><nome>Birra Artigianale</nome><prezzo>5.00</prezzo></prodotto>
+        <prodotto><nome>Acqua</nome><prezzo>2.00</prezzo></prodotto>
+    </categoria>
+    <categoria nome="Dolci">
+        <prodotto><nome>Tiramisù</nome><prezzo>5.00</prezzo></prodotto>
+    </categoria>
+</menu>

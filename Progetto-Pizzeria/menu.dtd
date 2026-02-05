@@ -1,0 +1,7 @@
+<!ELEMENT menu (categoria+)>
+<!ELEMENT categoria (prodotto+)>
+<!ATTLIST categoria nome CDATA REQUIRED>
+
+<!ELEMENT prodotto (nome, prezzo)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT prezzo (#PCDATA)>
